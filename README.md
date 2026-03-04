@@ -71,11 +71,11 @@ project/
 - 📝 **[Emma](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Emma)** — Technical Writer · 3개 파일
 - 🔒 **[Isabella](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Isabella)** — Security Engineer · 22개 파일
 - ⚡ **[Kevin](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Kevin)** — Frontend Engineer · 30개 파일
-- 🔧 **[Marcus](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Marcus)** — Backend Engineer · 33개 파일
-- 🎨 **[Maya](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Maya)** — Designer · 23개 파일
+- 🔧 **[Marcus](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Marcus)** — Backend Engineer · 35개 파일
+- 🎨 **[Maya](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Maya)** — Designer · 25개 파일
 - 🚢 **[Noah](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Noah)** — DevOps Engineer · 7개 파일
 - 🖥️ **[Oliver](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Oliver)** — Backend Engineer · 7개 파일
-- 🏗️ **[Taylor](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Taylor)** — Tech Lead · 18개 파일
+- 🏗️ **[Taylor](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Taylor)** — Tech Lead · 19개 파일
 
 ## 빠른 링크
 

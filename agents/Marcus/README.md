@@ -37,6 +37,7 @@
 - [2026-03-04/20260304_183548_Marcus_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183548_Marcus_1772649191.591039.md)
 - [2026-03-04/20260304_183619_Marcus_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183619_Marcus_1772649191.591039.md)
 - [2026-03-04/20260304_183634_Marcus_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183634_Marcus_1772649191.591039.md)
+- [2026-03-04/20260304_183737_Marcus_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183737_Marcus_1772649191.591039.md)
 
 ### 📁 specs/
 
@@ -45,6 +46,7 @@
 - [api_auth_and_resources.md.](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/api_auth_and_resources.md.)
 - [backend_crud_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/backend_crud_api.md)
 - [backend_crud_api.md,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/backend_crud_api.md,)
+- [collections_sync.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/collections_sync.md)
 - [db_schema_initial.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/db_schema_initial.md)
 - [db_schema_initial.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/db_schema_initial.md)
 - [feature_intuitive_experience.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/feature_intuitive_experience.md)
@@ -54,6 +56,10 @@
 - [saved_collections.md.](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/saved_collections.md.)
 - [search_caching_facet_plan.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/search_caching_facet_plan.md)
 - [user_activity_feed.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/user_activity_feed.md)
+
+### 📁 tests/
+
+- [test_collections_sync.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/tests/test_collections_sync.py)
 
 ---
 [← 전체 목록](https://github.com/soulomonlab/ai-team-slack-01)

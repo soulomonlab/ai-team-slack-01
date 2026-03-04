@@ -1,6 +1,6 @@
 # 🏗️ Taylor — Tech Lead
 
-> 🤖 Auto-generated · 2026-03-04 18:35 UTC
+> 🤖 Auto-generated · 2026-03-04 18:36 UTC
 
 ## 산출물 목록
 
@@ -37,6 +37,7 @@
 - [issue_backend_crud.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Taylor/specs/issue_backend_crud.md)
 - [openapi_v1.yaml](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Taylor/specs/openapi_v1.yaml)
 - [saved_collections.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Taylor/specs/saved_collections.md)
+- [user_activity_feed.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Taylor/specs/user_activity_feed.md)
 
 ---
 [← 전체 목록](https://github.com/soulomonlab/ai-team-slack-01)

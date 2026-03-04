@@ -68,7 +68,7 @@ project/
 
 - 📋 **[Alex](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Alex)** — Product Owner · 20개 파일
 - 🎯 **[Dana](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Dana)** — QA Engineer · 63개 파일
-- 🤖 **[Dependency](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Dependency)** — Agent · 10개 파일
+- 🤖 **[Dependency](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Dependency)** — Agent · 12개 파일
 - 📝 **[Emma](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Emma)** — Technical Writer · 3개 파일
 - 🔒 **[Isabella](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Isabella)** — Security Engineer · 22개 파일
 - ⚡ **[Kevin](https://github.com/soulomonlab/ai-team-slack-01/tree/main/agents/Kevin)** — Frontend Engineer · 41개 파일

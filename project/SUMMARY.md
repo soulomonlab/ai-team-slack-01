@@ -1,6 +1,6 @@
 # 프로젝트 산출물 요약
 
-> 🤖 Auto-generated · 2026-03-04 18:35 UTC
+> 🤖 Auto-generated · 2026-03-04 18:36 UTC
 
 ## 에이전트별 기여도
 
@@ -16,14 +16,14 @@
 | 🎨 Maya | Designer | 15 | 10 | 25 |
 | 🚢 Noah | DevOps Engineer | 1 | 6 | 7 |
 | 🖥️ Oliver | Backend Engineer | 0 | 7 | 7 |
-| 🏗️ Taylor | Tech Lead | 9 | 10 | 19 |
+| 🏗️ Taylor | Tech Lead | 10 | 10 | 20 |
 
 ## 파일 유형별 통계
 
 | 유형 | 파일 수 |
 |------|---------|
 | slack | 94 |
-| specs | 46 |
+| specs | 47 |
 | tests | 29 |
 | design | 28 |
 | code | 18 |
@@ -31,7 +31,7 @@
 | docs | 8 |
 | config | 1 |
 
-**총 산출물: 233개**
+**총 산출물: 234개**
 
 ---
 *https://github.com/soulomonlab/ai-team-slack-01*

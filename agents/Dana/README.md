@@ -1,8 +1,13 @@
 # 🎯 Dana — QA Engineer
 
-> 🤖 Auto-generated · 2026-03-04 18:37 UTC
+> 🤖 Auto-generated · 2026-03-04 18:38 UTC
 
 ## 산출물 목록
+
+### 📁 code/
+
+- [SEARCH_API_ASSUMPTIONS.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/code/SEARCH_API_ASSUMPTIONS.md)
+- [search.ts,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/code/search.ts,)
 
 ### 📁 design/
 
@@ -15,6 +20,7 @@
 ### 📁 reports/
 
 - [api_v1_qa_report.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/reports/api_v1_qa_report.md)
+- [search_api_qa_plan.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/reports/search_api_qa_plan.md)
 - [test_plan_cursor_pagination.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/reports/test_plan_cursor_pagination.md)
 - [test_plan_cursor_pagination.md,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/reports/test_plan_cursor_pagination.md,)
 - [test_plan_kickoff_template.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/reports/test_plan_kickoff_template.md)
@@ -38,6 +44,7 @@
 - [2026-03-04/20260304_183637_Dana_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183637_Dana_1772649191.591039.md)
 - [2026-03-04/20260304_183653_Dana_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183653_Dana_1772649191.591039.md)
 - [2026-03-04/20260304_183706_Dana_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183706_Dana_1772649191.591039.md)
+- [2026-03-04/20260304_183801_Dana_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183801_Dana_1772649191.591039.md)
 
 ### 📁 specs/
 

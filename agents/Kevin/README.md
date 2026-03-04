@@ -8,6 +8,7 @@
 
 - [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
 - [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
+- [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
 - [frontend/,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/,)
 - [frontend/mocks/crud_api_mock.ts](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/mocks/crud_api_mock.ts)
 - [frontend/onboarding/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/onboarding/)
@@ -35,6 +36,8 @@
 - [2026-03-04/20260304_183058_Kevin_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183058_Kevin_1772648728.246069.md)
 - [2026-03-04/20260304_183112_Kevin_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183112_Kevin_1772648728.246069.md)
 - [2026-03-04/20260304_183604_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183604_Kevin_1772649191.591039.md)
+- [2026-03-04/20260304_183647_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183647_Kevin_1772649191.591039.md)
+- [2026-03-04/20260304_183657_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183657_Kevin_1772649191.591039.md)
 
 ### 📁 specs/
 
@@ -46,6 +49,7 @@
 - [issue_product_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/issue_product_api.md)
 - [product_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/product_api.md)
 - [product_api.md.](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/product_api.md.)
+- [saved_collections.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/saved_collections.md)
 - [saved_collections.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/saved_collections.md)
 
 ---

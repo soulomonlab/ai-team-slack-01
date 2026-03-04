@@ -1,6 +1,6 @@
 # ⚡ Kevin — Frontend Engineer
 
-> 🤖 Auto-generated · 2026-03-04 18:35 UTC
+> 🤖 Auto-generated · 2026-03-04 18:36 UTC
 
 ## 산출물 목록
 
@@ -34,6 +34,7 @@
 - [2026-03-04/20260304_183044_Kevin_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183044_Kevin_1772648728.246069.md)
 - [2026-03-04/20260304_183058_Kevin_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183058_Kevin_1772648728.246069.md)
 - [2026-03-04/20260304_183112_Kevin_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183112_Kevin_1772648728.246069.md)
+- [2026-03-04/20260304_183604_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183604_Kevin_1772649191.591039.md)
 
 ### 📁 specs/
 
@@ -45,6 +46,7 @@
 - [issue_product_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/issue_product_api.md)
 - [product_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/product_api.md)
 - [product_api.md.](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/product_api.md.)
+- [saved_collections.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/specs/saved_collections.md)
 
 ---
 [← 전체 목록](https://github.com/soulomonlab/ai-team-slack-01)

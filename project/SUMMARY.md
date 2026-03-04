@@ -11,7 +11,7 @@
 | 🤖 Dependency | Agent | 5 | 4 | 9 |
 | 📝 Emma | Technical Writer | 2 | 1 | 3 |
 | 🔒 Isabella | Security Engineer | 14 | 8 | 22 |
-| ⚡ Kevin | Frontend Engineer | 17 | 13 | 30 |
+| ⚡ Kevin | Frontend Engineer | 18 | 14 | 32 |
 | 🔧 Marcus | Backend Engineer | 21 | 14 | 35 |
 | 🎨 Maya | Designer | 15 | 10 | 25 |
 | 🚢 Noah | DevOps Engineer | 1 | 6 | 7 |
@@ -22,8 +22,8 @@
 
 | 유형 | 파일 수 |
 |------|---------|
-| slack | 94 |
-| specs | 47 |
+| slack | 95 |
+| specs | 48 |
 | tests | 29 |
 | design | 28 |
 | code | 18 |
@@ -31,7 +31,7 @@
 | docs | 8 |
 | config | 1 |
 
-**총 산출물: 234개**
+**총 산출물: 236개**
 
 ---
 *https://github.com/soulomonlab/ai-team-slack-01*

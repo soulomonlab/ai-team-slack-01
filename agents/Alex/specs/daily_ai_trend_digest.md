@@ -43,4 +43,4 @@
 - Delivery success rate >= 99%
 - Digest open rate >= 35%
 
-**GitHub Issue:** TBD
+**GitHub Issue:** #55

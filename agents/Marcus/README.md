@@ -32,6 +32,7 @@
 - [2026-03-04/20260304_183032_Marcus_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183032_Marcus_1772648728.246069.md)
 - [2026-03-04/20260304_183055_Marcus_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183055_Marcus_1772648728.246069.md)
 - [2026-03-04/20260304_183121_Marcus_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183121_Marcus_1772648728.246069.md)
+- [2026-03-04/20260304_183436_Marcus_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/slack/2026-03-04/20260304_183436_Marcus_1772649191.591039.md)
 
 ### 📁 specs/
 
@@ -46,6 +47,7 @@
 - [issue_backend_crud.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/issue_backend_crud.md)
 - [openapi_v1.yaml](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/openapi_v1.yaml)
 - [openapi_v1.yaml](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/openapi_v1.yaml)
+- [user_activity_feed.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Marcus/specs/user_activity_feed.md)
 
 ---
 [← 전체 목록](https://github.com/soulomonlab/ai-team-slack-01)

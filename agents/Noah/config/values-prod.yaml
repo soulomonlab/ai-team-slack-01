@@ -1,0 +1,22 @@
+primary:
+  resources:
+    requests:
+      memory: 32Gi
+    limits:
+      memory: 32Gi
+replica:
+  replicaCount: 2
+  resources:
+    requests:
+      memory: 16Gi
+    limits:
+      memory: 16Gi
+metrics:
+  enabled: true
+  serviceMonitor:
+    enabled: true
+    namespace: monitoring
+master:
+  persistence:
+    enabled: true
+    size: 100Gi

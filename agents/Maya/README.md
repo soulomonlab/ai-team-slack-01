@@ -17,6 +17,7 @@
 - [onboarding_sketches.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/design/onboarding_sketches.md)
 - [onboarding_sketches.pdf](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/design/onboarding_sketches.pdf)
 - [search_pagination_live_updates_spec.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/design/search_pagination_live_updates_spec.md)
+- [smart_search_filter_spec.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/design/smart_search_filter_spec.md)
 
 ### 📁 slack/
 
@@ -29,6 +30,7 @@
 - [2026-03-04/20260304_183046_Maya_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/slack/2026-03-04/20260304_183046_Maya_1772648728.246069.md)
 - [2026-03-04/20260304_183118_Maya_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/slack/2026-03-04/20260304_183118_Maya_1772648728.246069.md)
 - [2026-03-04/20260304_183132_Maya_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/slack/2026-03-04/20260304_183132_Maya_1772648728.246069.md)
+- [2026-03-04/20260304_183535_Maya_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Maya/slack/2026-03-04/20260304_183535_Maya_1772649191.591039.md)
 
 ### 📁 specs/
 

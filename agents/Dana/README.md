@@ -35,6 +35,7 @@
 - [2026-03-04/20260304_183039_Dana_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183039_Dana_1772648728.246069.md)
 - [2026-03-04/20260304_183048_Dana_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183048_Dana_1772648728.246069.md)
 - [2026-03-04/20260304_183051_Dana_1772648728.246069.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183051_Dana_1772648728.246069.md)
+- [2026-03-04/20260304_183637_Dana_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/slack/2026-03-04/20260304_183637_Dana_1772649191.591039.md)
 
 ### 📁 specs/
 
@@ -56,6 +57,7 @@
 - [plan_auth_pagination_rate_limits.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/plan_auth_pagination_rate_limits.md)
 - [plan_backend_crud_api.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/plan_backend_crud_api.md)
 - [plan_infinite_live_list.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/plan_infinite_live_list.md)
+- [qa_saved_collections_plan.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/qa_saved_collections_plan.md)
 - [test_anonymous_likes.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_anonymous_likes.py)
 - [test_anonymous_likes.py\n-](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_anonymous_likes.py\n-)
 - [test_api_v1_integration.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_api_v1_integration.py)
@@ -72,6 +74,7 @@
 - [test_rate_limits.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_rate_limits.py)
 - [test_refresh_token.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_refresh_token.py)
 - [test_refresh_token.py,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_refresh_token.py,)
+- [test_saved_collections.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_saved_collections.py)
 - [test_soft_delete.py](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_soft_delete.py)
 - [test_soft_delete.py,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Dana/tests/test_soft_delete.py,)
 

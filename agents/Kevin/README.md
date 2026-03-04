@@ -1,17 +1,19 @@
 # ⚡ Kevin — Frontend Engineer
 
-> 🤖 Auto-generated · 2026-03-04 18:36 UTC
+> 🤖 Auto-generated · 2026-03-04 18:37 UTC
 
 ## 산출물 목록
 
 ### 📁 code/
 
+- [SEARCH_API_ASSUMPTIONS.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/SEARCH_API_ASSUMPTIONS.md)
 - [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
 - [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
 - [frontend/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/)
 - [frontend/,](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/,)
 - [frontend/mocks/crud_api_mock.ts](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/mocks/crud_api_mock.ts)
 - [frontend/onboarding/](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/frontend/onboarding/)
+- [search.ts](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/code/search.ts)
 
 ### 📁 design/
 
@@ -38,6 +40,8 @@
 - [2026-03-04/20260304_183604_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183604_Kevin_1772649191.591039.md)
 - [2026-03-04/20260304_183647_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183647_Kevin_1772649191.591039.md)
 - [2026-03-04/20260304_183657_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183657_Kevin_1772649191.591039.md)
+- [2026-03-04/20260304_183711_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183711_Kevin_1772649191.591039.md)
+- [2026-03-04/20260304_183716_Kevin_1772649191.591039.md](https://github.com/soulomonlab/ai-team-slack-01/blob/main/agents/Kevin/slack/2026-03-04/20260304_183716_Kevin_1772649191.591039.md)
 
 ### 📁 specs/
 
